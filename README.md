@@ -1,4 +1,4 @@
 Projeto de uma calculadora, digitada em portugol.
 
-[](2415.png)
+[Representando linguagem de programação](2415.png)
 
